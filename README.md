@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anis a former Quant now sofware engineer !!
 - 👀 I’m interested in any projects in python, React, Rust and Go. 
 - 🌱 I’m currently learning Go, Rust and advancing my knwoledge in machine learning and AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything Rust
 - 📫 How to reach me at anismousse@gmail.com or @MousseAkin on twitter !!
 
 <!---
